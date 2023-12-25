@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(134, 76, 0);
+    color: black;
+    margin: 50px;
+    border: 2px white solid;
+    padding: 25px;
+}
+.green-color {
+    background-color: aqua;
+    color: beige;
+    margin: auto;
+    border: 15px;
+    padding : 10px;
+}
